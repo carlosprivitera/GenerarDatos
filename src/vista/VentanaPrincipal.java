@@ -36,7 +36,7 @@ public class VentanaPrincipal extends JFrame {
      * @aggregation composite
      * @label muestra
      */
-    private About vp_About =  new About();
+    private Sobre vp_About =  new Sobre();
 
     /**
      * @aggregation shared
